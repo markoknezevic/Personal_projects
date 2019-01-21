@@ -1,0 +1,19 @@
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\bin\Debug\EIT-B5.exe
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\bin\Debug\EIT-B5.pdb
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Form1.resources
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Properties.Resources.resources
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\EIT-B5.csproj.GenerateResource.Cache
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\EIT-B5.exe
+C:\Users\programiranje\Desktop\EIT-B5\EIT-B5\obj\Debug\EIT-B5.pdb
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT-B5.exe
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT-B5.pdb
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\bin\Debug\EIT-B5.exe
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\bin\Debug\EIT-B5.pdb
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Form1.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Periodi.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT_B5.tIP.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT_B5.Tip_Antikviteta.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\Debug\EIT-B5.csproj.GenerateResource.Cache

@@ -1,0 +1,36 @@
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.exe
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.pdb
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Form1.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Periodi.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.tIP.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Tip_Antikviteta.resources
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.csproj.GenerateResource.Cache
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.exe
+C:\Users\Programiranje\Desktop\Eit A5\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.pdb
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.exe
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.pdb
+C:\Users\User\Desktop\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.exe
+C:\Users\User\Desktop\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.pdb
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Form1.resources
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Periodi.resources
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Properties.Resources.resources
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.tIP.resources
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Tip_Antikviteta.resources
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Po_Antikvitetu.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.exe
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\bin\x86\Debug\EIT-B5.pdb
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.csprojAssemblyReference.cache
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Form1.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Periodi.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Po_Antikvitetu.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Properties.Resources.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.tIP.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT_B5.Tip_Antikviteta.resources
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.csproj.GenerateResource.cache
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.exe
+C:\Users\Marko\Documents\EIT-B5\EIT-B5\obj\x86\Debug\EIT-B5.pdb
