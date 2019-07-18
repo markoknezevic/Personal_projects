@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+        android:id="@+id/add_location"
+        android:title="Add new location">
+</item>
+
+    <item
+            android:id="@+id/date"
+            android:title="Pick date">
+    </item>
+
+    <item
+            android:id="@+id/allLocations"
+            android:title="Show all locations">
+    </item>
+
+</menu>
